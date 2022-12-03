@@ -7,4 +7,4 @@
 # References
 - https://camms.pratt.duke.edu/
 
-A series of new tutorials will come
+A series of new tutorials will come using Python C, Linux and a series of other tools
